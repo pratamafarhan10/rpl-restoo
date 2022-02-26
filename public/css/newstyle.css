@@ -1,0 +1,259 @@
+.navres{
+    background-color: #212936  !important;
+    
+}
+.navcolor{
+    color: white !important;
+}
+
+.bodycolor{
+    background-color: #2B3648;
+    color: white;
+}
+
+.title-fitur{
+    font-size: 36px;
+    color: white;
+}
+
+.btn {
+    width: 90px !important;
+}
+
+.card{
+    background-color: #212936 !important;
+    height: 200px;
+}
+
+.card-title{
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.menu-desc .row{
+    font-size: 16px;
+    height: 37px;
+    margin-top: 2px;
+}
+.menu-desc .row .col-sm-2{
+    font-size: 16px;
+    height: 37px;
+    font-weight: bolder;
+}
+
+.img-menu{
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+    object-position: center;
+}
+
+.input-form{
+    width: 450px;
+}
+
+.form-control{
+    background-color: #2B3648;
+    color: white;
+    border-color: #2B3648;
+}
+
+.form-file{
+    background-color: transparent;
+}
+
+.btn-create{
+    width: 200px !important;
+}
+
+.modal-content{
+    height: 320px;
+    background-color: #2B3648;
+}
+
+.delete-icon{
+    width: 170px;
+    height: 170px;
+}
+
+.delete-message{
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.deleted-item{
+    color: red;
+}
+
+.login-body{
+    background-color: #2B3648 !important;
+}
+
+.seat-number{
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.logo-waiter-seat{
+    width: 311px;
+    height: 104px;
+}
+
+.waiter-seat-number{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 120px;
+    font-weight: bolder;
+}
+
+.waiter-seat{
+    background-color: #2874A6  !important;
+}
+
+.waiter-seat:hover, .waiter-seat-assigned:hover{
+    color: #2B3648;
+}
+
+.mejano{
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.waiter-seat-assigned{
+    background-color: #CD1406  !important;
+}
+
+.right-order-content{
+    padding: 20px;
+    background-color: #212936 !important;
+}
+
+.left-order-content{
+    padding: 20px;
+}
+
+.order-button{
+    width: 300px !important;
+}
+
+.right-order-content-title{
+    height: 100px;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.right-order-content-pesanan{
+    height: 350px;
+    font-size: 25px;
+}
+
+.greet-order{
+    font-size: 36px;
+}
+
+.right-order-content-price{
+    font-size: 24px;
+}
+
+.right-order-content-pesanan-menuname{
+    height: 33px;
+}
+
+.btn-pesan-number{
+    width: 35px !important;
+}
+
+.pesan-number{
+    width: 50px !important;
+}
+
+.menu-category{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.min-h-screen{
+    background-image: url("../img/icon/loginbg.jpg");
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.listOrder{
+    font-size: smaller;
+}
+
+.search-menu{
+    width: 160px;
+    background-color: #212936;
+}
+
+.filter-menu, .filter-menu li a{
+    width: 160px;
+    background-color: #212936;
+    color: white;
+}
+
+.card-category{
+    height: 60px;
+}
+
+.card-list-pembayaran{
+    color: black;
+    background-color: whitesmoke !important;
+}
+
+.search-menu{
+    width: 160px;
+    background-color: white;
+    color: black;
+}
+
+.plus-minus-update-pemesanan{
+    border-color: white;
+}
+
+.modal-title-payment, .payment-check-message{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.modal-payment{
+    height: 250px;
+    background-color: #2B3648;
+}
+
+.light-font{
+    font-weight: normal;
+}
+
+.payment-detail-title{
+    font-size: 24px;
+}
+
+.autoModal.modal .modal-body{
+    max-height: 100%;
+}
+
+.modal-content{
+    height: auto;
+}
+
+.dashboard-leaderboard{
+    background-color: #212936;
+}
+
+.dashboard-leaderboard-title-alltime{
+    background-color: #3057FF;
+}
+
+.dashboard-leaderboard-title-today{
+    background-color: #ff6701;
+}
+
+.dashboard-card{
+    height: auto;
+}
+.paymentPage-text{
+    font-size: 35px;
+}
